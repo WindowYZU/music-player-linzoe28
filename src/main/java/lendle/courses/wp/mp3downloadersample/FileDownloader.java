@@ -13,7 +13,7 @@ import java.net.URL;
 
 /**
  *
- * @author lendle
+ * @author lendle 1223
  */
 public class FileDownloader {
     static void downloadFile(final URL url, final File destinationFile, final FileDownloaderCallback callback){
